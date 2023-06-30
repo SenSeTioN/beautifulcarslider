@@ -16,3 +16,5 @@ function slidesPlugin(activeSlide = 2) {
 		});
 	});
 }
+
+slidesPlugin();
